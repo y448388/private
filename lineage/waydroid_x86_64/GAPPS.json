@@ -1,0 +1,166 @@
+{
+    "response": [
+        {
+            "datetime": 1675474369,
+            "filename": "lineage-18.1-20230204-GAPPS-waydroid_x86_64-system.zip",
+            "id": "c66fde8b5dce1bef82f494d972e7fe7042aaa967c270b912f3d80fd15f64f73f",
+            "romtype": "GAPPS",
+            "size": 855732867,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230204-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674869455,
+            "filename": "lineage-18.1-20230128-GAPPS-waydroid_x86_64-system.zip",
+            "id": "9616e59c6b1b65f52c260e19ff8ca1ff10ce388c09635e955353d7c98b5f0d20",
+            "romtype": "GAPPS",
+            "size": 855733406,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230128-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674264675,
+            "filename": "lineage-18.1-20230121-GAPPS-waydroid_x86_64-system.zip",
+            "id": "53073fee1e419e614602a5278d67291ef06215541016ffe5cee0347564e777d1",
+            "romtype": "GAPPS",
+            "size": 855734777,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230121-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674151387,
+            "filename": "lineage-18.1-20230120-GAPPS-waydroid_x86_64-system.zip",
+            "id": "778aa89cd50c47a25f40c9737985aa2ef8665883efb3646e4353bff0866314da",
+            "romtype": "GAPPS",
+            "size": 855737432,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230120-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1673055092,
+            "filename": "lineage-18.1-20230107-GAPPS-waydroid_x86_64-system.zip",
+            "id": "6306d1e8ce9ab3530711da947e8107c75e67d03751b2d2e40dc14fc793db13a5",
+            "romtype": "GAPPS",
+            "size": 855635953,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230107-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1672450352,
+            "filename": "lineage-18.1-20221231-GAPPS-waydroid_x86_64-system.zip",
+            "id": "90f9d30d98295cce2c73b5721c39ae36a3153f65af80dfa99b9575553b1f027d",
+            "romtype": "GAPPS",
+            "size": 855636551,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221231-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1671240634,
+            "filename": "lineage-18.1-20221217-GAPPS-waydroid_x86_64-system.zip",
+            "id": "0d837b253a86d9b5ec492fcf2c7e2a644f4c94c37440c4c3094e0a5121099b2e",
+            "romtype": "GAPPS",
+            "size": 855632060,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221217-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1670635912,
+            "filename": "lineage-18.1-20221210-GAPPS-waydroid_x86_64-system.zip",
+            "id": "c1c71d7f6264ae6c8f4700cfb6a2c77a1087c0c57ed015726363b02cc821e32f",
+            "romtype": "GAPPS",
+            "size": 855641178,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221210-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1670361831,
+            "filename": "lineage-18.1-20221207-GAPPS-waydroid_x86_64-system.zip",
+            "id": "9f9ae4a5e4105364a1bfcda2262e3421e67663e560acf2fe9019dbdc05e64aaf",
+            "romtype": "GAPPS",
+            "size": 855642692,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221207-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667946934,
+            "filename": "lineage-18.1-20221109-GAPPS-waydroid_x86_64-system.zip",
+            "id": "72b5b5fe3d68e5604664798044515448420ef3015e0e1ee086dbf9eb04467d95",
+            "romtype": "GAPPS",
+            "size": 855140114,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221109-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667837375,
+            "filename": "lineage-18.1-20221108-GAPPS-waydroid_x86_64-system.zip",
+            "id": "21718d0da8ccc54bfa2f2c3bb83b33f422bc22c98c1b17c80007c0c1bfa1891c",
+            "romtype": "GAPPS",
+            "size": 853332140,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221108-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667826235,
+            "filename": "lineage-18.1-20221107-GAPPS-waydroid_x86_64-system.zip",
+            "id": "47dfee89efb1297e3e3ce38078db65fce925fd47dc2c4db4eb60d3fe7f4a9435",
+            "romtype": "GAPPS",
+            "size": 170,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221107-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667122599,
+            "filename": "lineage-18.1-20221030-GAPPS-waydroid_x86_64-system.zip",
+            "id": "2e96a24f2bb24d5b8dd6fe8bc04bdb2f4a467ed6784c912e806d30a161972264",
+            "romtype": "GAPPS",
+            "size": 852383491,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221030-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1658548206,
+            "filename": "lineage-17.1-20220723-GAPPS-waydroid_x86_64-system.zip",
+            "id": "391ccb7de6b911603b841bc511ac3db65da72406edb9e5715eb41dfe8f76052b",
+            "romtype": "GAPPS",
+            "size": 970177025,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20220723-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1652571440,
+            "filename": "lineage-17.1-20220515-GAPPS-waydroid_x86_64-system.zip",
+            "id": "d9c31855a230fc756368547972439eca9249658967c4ae3110bb1e95a6fe99b3",
+            "romtype": "GAPPS",
+            "size": 940832487,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20220515-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1647471096,
+            "filename": "lineage-17.1-20220316-GAPPS-waydroid_x86_64-system.zip",
+            "id": "9f6f5f05954c4c3afbc0d197ba6edbd2fc51df7a12951d0bd819afadcfbba00e",
+            "romtype": "GAPPS",
+            "size": 940821127,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20220316-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1634798717,
+            "filename": "lineage-17.1-20211021-GAPPS-waydroid_x86_64-system.zip",
+            "id": "ebd7c57f32a4b3e39c7e1c2fcd5954d69b3c7bdf78a92bffd5d416173554df19",
+            "romtype": "GAPPS",
+            "size": 945176860,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20211021-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1634665294,
+            "filename": "lineage-17.1-20211019-GAPPS-waydroid_x86_64-system.zip",
+            "id": "51299c46d218e15178e675b2b4b446ea59199cf6c30df61e4f573f92dff6f48e",
+            "romtype": "GAPPS",
+            "size": 945178057,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20211019-GAPPS-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        }
+    ]
+}
