@@ -1,0 +1,301 @@
+{
+    "response": [
+        {
+            "datetime": 1674883062,
+            "filename": "lineage-18.1-20230128-VANILLA-waydroid_x86_64-system.zip",
+            "id": "76479c9c918fcf84889be035353a0cb95f76b0f071f62ee15159a3415b9c1eb7",
+            "romtype": "VANILLA",
+            "size": 766573217,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230128-VANILLA-waydroid_x86_64-system.zip/download?use_mirror=autoselect",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674278260,
+            "filename": "lineage-18.1-20230121-VANILLA-waydroid_x86_64-system.zip",
+            "id": "5e7980807c658998ac6f24e13910d8d5792bb5bba675940f2c75572136be9a69",
+            "romtype": "VANILLA",
+            "size": 766576930,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230121-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674154522,
+            "filename": "lineage-18.1-20230120-VANILLA-waydroid_x86_64-system.zip",
+            "id": "3d81ca82451c1cb4dbce64cc142acb49750e2a109448356810ad8477abb662f7",
+            "romtype": "VANILLA",
+            "size": 766576396,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230120-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1673673454,
+            "filename": "lineage-18.1-20230114-VANILLA-waydroid_x86_64-system.zip",
+            "id": "bac31186e8f847434f3d1e5f887661b35674891ffc58ccca98c2e319835cbd45",
+            "romtype": "VANILLA",
+            "size": 766523742,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230114-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1673068671,
+            "filename": "lineage-18.1-20230107-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ffeb6ec321c60e683f733a2c0391a7c55a7618d8caa11f7baf02207ad57fd73b",
+            "romtype": "VANILLA",
+            "size": 766489329,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20230107-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1672463857,
+            "filename": "lineage-18.1-20221231-VANILLA-waydroid_x86_64-system.zip",
+            "id": "934fbb925fa66c727ddf3cd486dcef53adeff767d594a4e6998138fa3dae4ef9",
+            "romtype": "VANILLA",
+            "size": 766487695,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221231-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1671859045,
+            "filename": "lineage-18.1-20221224-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d9f79b1b958f3d55c589f6417a825401aee7c5a82d9cad08c11a4204378610c4",
+            "romtype": "VANILLA",
+            "size": 766482797,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221224-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1671254225,
+            "filename": "lineage-18.1-20221217-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4c4706ac5a324e7ceb869923a3e1ca073b43f2bec14520508c66e277ba2429de",
+            "romtype": "VANILLA",
+            "size": 766487907,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221217-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1670649474,
+            "filename": "lineage-18.1-20221210-VANILLA-waydroid_x86_64-system.zip",
+            "id": "97e22a3986af0227230006115b8c56d5f0240bd020137aa4c6e8f4b494b2c3a7",
+            "romtype": "VANILLA",
+            "size": 766488948,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221210-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1670351283,
+            "filename": "lineage-18.1-20221207-VANILLA-waydroid_x86_64-system.zip",
+            "id": "230d5009ce4b04fc73653ad4be33f378297f2f3eabc5351150b1ce6770793e0b",
+            "romtype": "VANILLA",
+            "size": 766490101,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221207-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667949828,
+            "filename": "lineage-18.1-20221109-VANILLA-waydroid_x86_64-system.zip",
+            "id": "f2262a8109291104c56d4dcc777e2f7b8d5341c00a8ba7ba75dd71312b373d69",
+            "romtype": "VANILLA",
+            "size": 765987831,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221109-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667828908,
+            "filename": "lineage-18.1-20221107-VANILLA-waydroid_x86_64-system.zip",
+            "id": "29bfaaa4e29df87b797f62640df43b28b3d7a7e3bd26fc811006bf2d77a32c0a",
+            "romtype": "VANILLA",
+            "size": 764213276,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221107-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667128144,
+            "filename": "lineage-18.1-20221030-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4176c384b25a97e24cb4147660234afd80898e9d15f02b889d9c794675fcd985",
+            "romtype": "VANILLA",
+            "size": 763252239,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-18.1-20221030-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1658551586,
+            "filename": "lineage-17.1-20220723-VANILLA-waydroid_x86_64-system.zip",
+            "id": "82023e7b04adeea64fa0073f335f55300b67c8f4cf866eb1629da2fd2eae072d",
+            "romtype": "VANILLA",
+            "size": 757970493,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20220723-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1652575094,
+            "filename": "lineage-17.1-20220515-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c77c5fa1a6c2db35e633ada57516823aad4d76fda546c2b8de9b606234e25e24",
+            "romtype": "VANILLA",
+            "size": 757801085,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20220515-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1647472263,
+            "filename": "lineage-17.1-20220316-VANILLA-waydroid_x86_64-system.zip",
+            "id": "da8f71739a258a4e65f93b69b735e25c3f9052cce318c4e855510b50ecbb1701",
+            "romtype": "VANILLA",
+            "size": 752657515,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20220316-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1634803332,
+            "filename": "lineage-17.1-20211021-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c56225255380e1707a0380555e1d55961a5bc5e670b2b769724b52ae40283d84",
+            "romtype": "VANILLA",
+            "size": 757033921,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20211021-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1634670009,
+            "filename": "lineage-17.1-20211019-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c6db60b4c56ecefd448972c35380232fefbb91147a5f4c682e3c0a99593cda52",
+            "romtype": "VANILLA",
+            "size": 757033086,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20211019-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1633630334,
+            "filename": "lineage-17.1-20211007-VANILLA-waydroid_x86_64-system.zip",
+            "id": "fd02fbdd5ca57a89fb13a496859dac9b21a98331105e4dc2f0a3e6f1ac200f3c",
+            "romtype": "VANILLA",
+            "size": 757040422,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20211007-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632997037,
+            "filename": "lineage-17.1-20210930-VANILLA-waydroid_x86_64-system.zip",
+            "id": "fbbefb6c5237ff06929d26e22eefeff83c3dc1dfdf232c40a98949190d29e8e6",
+            "romtype": "VANILLA",
+            "size": 757087919,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210930-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632831948,
+            "filename": "lineage-17.1-20210928-VANILLA-waydroid_x86_64-system.zip",
+            "id": "5893afeb081cbcd5bca08e123510fc7563bc8b05dacc24a6fae485f347441945",
+            "romtype": "VANILLA",
+            "size": 757088465,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210928-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632677133,
+            "filename": "lineage-17.1-20210926-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c81ef9a924a3df0b0f19a1c7cc8d550fb5c18a9eff2b481839f91fb708d923f7",
+            "romtype": "VANILLA",
+            "size": 757088141,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210926-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632550023,
+            "filename": "lineage-17.1-20210925-VANILLA-waydroid_x86_64-system.zip",
+            "id": "68699fde4cad8dd256a0ecc7e0d007a0047c73b8729ac09ff78fc8ab7f4ce313",
+            "romtype": "VANILLA",
+            "size": 757087882,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210925-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632153815,
+            "filename": "lineage-17.1-20210920-VANILLA-waydroid_x86_64-system.zip",
+            "id": "de11171c801cd4157280f11b15968406fa3f7d7d9e3166882a8062c54545d3f7",
+            "romtype": "VANILLA",
+            "size": 756205937,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210920-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631544565,
+            "filename": "lineage-17.1-20210913-VANILLA-waydroid_x86_64-system.zip",
+            "id": "dadd9fbaae82666bfaca37df9f7bda13e4c5c67277de61c23081291e2604f004",
+            "romtype": "VANILLA",
+            "size": 739747745,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210913-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631431829,
+            "filename": "lineage-17.1-20210912-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8795ccf4d679c0d14d7100fe98fc16f565ab8e45ebe4d8b246dd1c385279e744",
+            "romtype": "VANILLA",
+            "size": 739733303,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210912-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631352994,
+            "filename": "lineage-17.1-20210911-VANILLA-waydroid_x86_64-system.zip",
+            "id": "397f26f5467d0b5eb918237dd680d37a4d5281fbea9e52c7a705a25875ff74d8",
+            "romtype": "VANILLA",
+            "size": 739733583,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210911-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631184213,
+            "filename": "lineage-17.1-20210909-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a4a8080c38782784f6be91d10b5873622ca9de8c1e613009564e1b102f90e513",
+            "romtype": "VANILLA",
+            "size": 739731904,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210909-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631083314,
+            "filename": "lineage-17.1-20210908-VANILLA-waydroid_x86_64-system.zip",
+            "id": "10eeaf97a66f1146d7d9358687bc29667c5d174ff63645efa4f433a7064b3c7c",
+            "romtype": "VANILLA",
+            "size": 739734382,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210908-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630994402,
+            "filename": "lineage-17.1-20210907-VANILLA-waydroid_x86_64-system.zip",
+            "id": "eec039be864763e9538bbe9b9fc75745d0c2c1a15795688ba5b2acb0816ad714",
+            "romtype": "VANILLA",
+            "size": 739739967,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210907-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630914541,
+            "filename": "lineage-17.1-20210906-VANILLA-waydroid_x86_64-system.zip",
+            "id": "20cde70c45038801ccc3312e85570102c0cd059d27e9cde259e8ee6ea713793d",
+            "romtype": "VANILLA",
+            "size": 741011566,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210906-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630737526,
+            "filename": "lineage-17.1-20210904-VANILLA-waydroid_x86_64-system.zip",
+            "id": "21166b6e928f9b339711fc53712c88579c5da1f4e6e63d55e82360e35002d9b9",
+            "romtype": "VANILLA",
+            "size": 741003699,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210904-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630344813,
+            "filename": "lineage-17.1-20210830-VANILLA-waydroid_x86_64-system.zip",
+            "id": "389d69f5bb625d8c567dd0268e416bcefd809ba8300149c374d0a2167f7da035",
+            "romtype": "VANILLA",
+            "size": 740988845,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/lineage-17.1-20210830-VANILLA-waydroid_x86_64-system.zip/download",
+            "version": "17.1"
+        }
+    ]
+}
