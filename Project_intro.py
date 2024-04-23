@@ -120,12 +120,13 @@ while (int__pivot_r <= int__rindex and int__pivot_c <= int__cindex):
         int__pivot_c += 1
 
 int__pivot_r = int__rindex
-int__pivot_c = int__cindex - 1
+int__pivot_c = int__rindex
 
 while (int__pivot_r > 0 and int__pivot_c > 0):
-    if list__c_matrix[int__pivot_r - 1][int__pivot_c - 1] == 0:
+    if int__pivot_c > int__cindex:
         int__pivot_r -= 1
-    else:
+        int__pivot_c -= 1
+    if list__c_matrix[int__pivot_r - 1][int__pivot_c - 1] != 0:
         for int__r_iter in range(int__pivot_r - 1, 0, -1):
             if list__c_matrix[int__r_iter - 1][int__pivot_c - 1] != 0:
                 int__o1 = list__c_matrix[int__pivot_r - 1][int__pivot_c - 1]
@@ -145,8 +146,8 @@ while (int__pivot_r > 0 and int__pivot_c > 0):
             if int__gcm > 1:
                 for int__iter in range(int__cindex):
                     list__iter[int__iter] = list__iter[int__iter] // int__gcm
-        int__pivot_r -= 1
-        int__pivot_c -= 1
+    int__pivot_r -= 1
+    int__pivot_c -= 1
 
 list__lcm = []
 for int__iter in range(1, int__rindex + 1):
